@@ -27,6 +27,7 @@ Mission Success Rate
 - Partial Failure: 2.36%
 - Prelaunch Failure: 0.09%
 - Success: 89.71%
+
 ![Porcentaje de exito de las misiones](images/ExitoMisiones.png)
 
 Launches per year

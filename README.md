@@ -16,3 +16,16 @@ Tools Used
 - Spyder (IDE)
 - Excel
 - Power BI (Data Visualization)
+
+![Locacion Misiones Espaciales](images/LocacionMisionesEspaciales.png)
+
+![Porcentaje de exito de las misiones](images/ExitoMisiones.png)
+
+![Misiones por año](images/Misionesxanio.png)
+
+![Lanzamientos por compañia](images/LanzamientosCompania.png)
+
+![Estado de los cohetes](images/EstadoCohetes.png)
+
+![Total dinero invertido](images/DineroInvertido.png)
+

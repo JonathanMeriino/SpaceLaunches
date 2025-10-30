@@ -43,11 +43,12 @@ It represents the distribution of the total number of launches carried out by th
 
 Rocket Status
 
-Muestra la proporción o cantidad de cohetes clasificados según su estado
+It shows the proportion or quantity of rockets classified according to their condition
 
 ![Estado de los cohetes](images/EstadoCohetes.png)
 
 Total amount of money invested
-Ilustra la inversión económica en programas y misiones espaciales a lo largo del tiempo
+It illustrates the economic investment in space programs and missions over time
+
 ![Total dinero invertido](images/DineroInvertido.png)
 

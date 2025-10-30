@@ -44,6 +44,7 @@ It represents the distribution of the total number of launches carried out by th
 Rocket Status
 
 Muestra la proporción o cantidad de cohetes clasificados según su estado
+
 ![Estado de los cohetes](images/EstadoCohetes.png)
 
 Total amount of money invested

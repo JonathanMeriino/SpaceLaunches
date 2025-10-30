@@ -32,14 +32,21 @@ Mission Success Rate
 ![Porcentaje de exito de las misiones](images/ExitoMisiones.png)
 
 Launches per year
+
+This graph shows the evolution of the number of space missions launched each year since 1957. It allows us to identify periods of greater activity in the space race, such as the boom during the Cold War, the expansion of international programs in the 2000s, and the sustained growth in the era of commercial launches.
 ![Misiones por año](images/Misionesxanio.png)
 
 Launches per company
+
+It represents the distribution of the total number of launches carried out by the main companies or space agencies.
 ![Lanzamientos por compañia](images/LanzamientosCompania.png)
 
 Rocket Status
+
+Muestra la proporción o cantidad de cohetes clasificados según su estado
 ![Estado de los cohetes](images/EstadoCohetes.png)
 
 Total amount of money invested
+Ilustra la inversión económica en programas y misiones espaciales a lo largo del tiempo
 ![Total dinero invertido](images/DineroInvertido.png)
 
